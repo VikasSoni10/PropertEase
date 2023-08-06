@@ -1,0 +1,126 @@
+{
+    "properties":[
+      {
+        "name": "Cozy Apartment",
+        "price": 1200,
+        "location": "123 Main St, Cityville",
+        "move_in_date": "2023-09-01",
+        "property_type": "Apartment",
+        "beds": 2,
+        "bathrooms": 1,
+        "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=996&q=80"
+      },
+      {
+        "name": "Spacious House",
+        "price": 2500,
+        "location": "456 Elm St, Suburbia, USA",
+        "move_in_date": "2023-08-15",
+        "property_type": "House",
+        "beds": 4,
+        "bathrooms": 2.5,
+        "image_url": "https://images.unsplash.com/photo-1592595896551-12b371d546d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "name": "Studio Loft",
+        "price": 900,
+        "location": "789 Oak Ave, Urbanville, USA",
+        "move_in_date": "2023-10-01",
+        "property_type": "Loft",
+        "beds": 1,
+        "bathrooms": 1,
+        "image_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "name": "Luxury House",
+        "price": 3500,
+        "location": "101 Highrise Blvd, Cityscape",
+        "move_in_date": "2023-09-15",
+        "property_type": "House",
+        "beds": 3,
+        "bathrooms": 2,
+        "image_url": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+      },
+      {
+        "name": "Charming Cottage",
+        "price": 1600,
+        "location": "222 Pine Ln, Countryside",
+        "move_in_date": "2023-09-01",
+        "property_type": "Cottage",
+        "beds": 3,
+        "bathrooms": 1.5,
+        "image_url": "https://images.unsplash.com/photo-1560184897-ae75f418493e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "name": "Modern Mansion",
+        "price": 1800,
+        "location": "555 Maple St, Suburbia",
+        "move_in_date": "2023-08-15",
+        "property_type": "Mansion",
+        "beds": 3,
+        "bathrooms": 2,
+        "image_url": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "name": "Elegant Mansion",
+        "price": 8000,
+        "location": "777 Grand Ave, Estates",
+        "move_in_date": "2023-10-01",
+        "property_type": "Mansion",
+        "beds": 6,
+        "bathrooms": 5.5,
+        "image_url": "https://images.unsplash.com/photo-1605146769289-440113cc3d00?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTh8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "name": "Quaint Bungalow",
+        "price": 1100,
+        "location": "888 Willow Rd, Riverside",
+        "move_in_date": "2023-09-15",
+        "property_type": "Bungalow",
+        "beds": 2,
+        "bathrooms": 1,
+        "image_url": "https://images.unsplash.com/photo-1627640268913-91cfd4675b65?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzZ8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "name": "Highrise Penthouse",
+        "price": 5000,
+        "location": "999 Skyview Tower, Downtown",
+        "move_in_date": "2023-08-01",
+        "property_type": "Penthouse",
+        "beds": 3,
+        "bathrooms": 3,
+        "image_url": "https://images.unsplash.com/photo-1628133287836-40bd5453bed1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODN8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "name": "Rustic Farmhouse",
+        "price": 2200,
+        "location": "333 Oak Ridge, Countryside",
+        "move_in_date": "2023-09-15",
+        "property_type": "Farmhouse",
+        "beds": 4,
+        "bathrooms": 2.5,
+        "image_url": "https://images.unsplash.com/photo-1627141234469-24711efb373c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=869&q=80"
+      },
+      {
+        "name": "Urban Studio",
+        "price": 800,
+        "location": "444 Brick Rd, Downtown",
+        "move_in_date": "2023-10-01",
+        "property_type": "Studio",
+        "beds": 1,
+        "bathrooms": 1,
+        "image_url": "https://images.unsplash.com/photo-1592595896616-c37162298647?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "name": "Lakefront Retreat",
+        "price": 2800,
+        "location": "555 Lakeside Dr, Waterside",
+        "move_in_date": "2023-08-15",
+        "property_type": "House",
+        "beds": 3,
+        "bathrooms": 2.5,
+        "image_url": "https://images.unsplash.com/photo-1512915922686-57c11dde9b6b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=873&q=80"
+      }
+    ]
+   
+}
+  
